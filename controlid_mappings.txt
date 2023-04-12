@@ -42,8 +42,6 @@ ControlID 20 = M5
 
 ControlID 21 = M6
 
-ControlID 22 = M6
-
 ControlID 128 = Button Disabled
 
 ControlID 129-143 = Button Disabled ? → Loads success but not clear what button is being pressed
