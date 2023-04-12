@@ -106,3 +106,15 @@ Save this file.
 I did attempt get the guide button working as it appears to be supported on PC, however I could not find a ControlID/ButtonMappingStates value for that button, searched up to 300.
 
 You can usually get out of a broken state by plugging the controller in while holding down the 'Map' key, found this out when I had a failed firmware update and the controller wouldn't stay powered on after plugging in.
+
+There may be some additional value realized by leveraging JoyToKey's alias feature, ymmv.
+
+## Third party mapping tools 
+
+[AntiMicroX](https://github.com/AntiMicroX/antimicrox)
+
+[JoyToKey](https://joytokey.net/)
+
+## Other tools used
+
+[HidReportInspector](https://github.com/Ryochan7/HidReportInspector)
