@@ -1,0 +1,49 @@
+ControlID 0 = LB
+
+ControlID 1 = RB
+
+ControlID 2 = LT
+
+ControlID 3 = RT
+
+ControlID 4 = shows as ‘?’ under mappings but loads success = menu/start button = button 8 in joytokey
+
+ControlID 5 = shows as ‘?’ under mappings but loads success = view/profile button = button 7 in joytokey
+
+ControlID 6 = LSB
+
+ControlID 7 = RSB
+
+ControlID 8 = Up dpad
+
+ControlID 9 = Down dpad
+
+ControlID 10 = Left dpad
+
+ControlID 11 = Right dpad
+
+ControlID 12 = X
+
+ControlID 13 = A
+
+ControlID 14 = B
+
+ControlID 15 = Y
+
+ControlID 16 = M1
+
+ControlID 17 = M2
+
+ControlID 18 = M3
+
+ControlID 19 = M4
+
+ControlID 20 = M5
+
+ControlID 21 = M6
+
+ControlID 22 = M6
+
+ControlID 128 = Button Disabled
+
+ControlID 129-143 = Button Disabled ? → Loads success but not clear what button is being pressed
