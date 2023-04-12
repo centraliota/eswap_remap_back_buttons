@@ -40,9 +40,14 @@ ThrustMapperX: 1.0.4.0
 
 4. From the 'Home' screen in 'ThrustMapperX', click the three lines beside 'Profile 1' and select 'Duplicate' profile, give it a useful name and click 'Duplicate'.
 
+![Duplicate Profile 1 for editting.](/images/duplicate_profile.png)
+
 5. Click the three lines beside the new profile you have created, and select 'Export'. Save as a text file to somewhere.
+![Export the newly created profile for editting.](/images/potato_profile_export.png)
 
 6. Open that text file in the text editor of your choice (notepad is fine). This is a json formated file and will not show up great - but it doesn't really matter for our purposes.
+
+![Open newly created profile in a text editor.](/images/notepad_profile_open.png)
 
 7. You will want to search for the button mapping you are interested in remapping.
 
@@ -90,9 +95,11 @@ Save this file.
 
 10. You can now click the 'Mapping' next to the 'Home' icon, and you should see that 'M4' is now mapped to '?'.
 
+![M4 map has changed.](/images/m4_map_changed.png)
+
 11. You can further verify this by looking in whatever third party tool (AntiMicroX/JoyToKey/etc) you will use for the keyboard mapping portion to verify that it is actually properly mapped. You can also now map your button to whatever keyboard/mouse/other inputs you want.
 
-
+![Mapped and activated in AntiMicroX](/images/key_mapped_antimicrox.png)
 
 # Additional Notes
 
